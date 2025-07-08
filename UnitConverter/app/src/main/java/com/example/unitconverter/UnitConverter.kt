@@ -59,7 +59,6 @@ fun UnitConverter() {
         outputvalue = result.toString()
     }
 
-    // 🌄 Wrap in Box to allow layering the background image
     Box(
         modifier = Modifier
             .fillMaxSize()
