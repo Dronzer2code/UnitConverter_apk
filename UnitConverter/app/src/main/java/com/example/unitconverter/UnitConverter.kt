@@ -65,7 +65,7 @@ fun UnitConverter() {
     ) {
         // 📷 Background Image
         Image(
-            painter = painterResource(id = R.drawable.background), // Replace with your actual image
+            painter = painterResource(id = R.drawable.background),
             contentDescription = "Background",
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize()
