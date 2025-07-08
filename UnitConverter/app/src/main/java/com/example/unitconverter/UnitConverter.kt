@@ -36,7 +36,7 @@ import kotlin.math.roundToInt
 import androidx.compose.foundation.Image
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.layout.ContentScale
-import com.example.unitconverter.R // make sure your package is correct
+import com.example.unitconverter.R 
 
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
