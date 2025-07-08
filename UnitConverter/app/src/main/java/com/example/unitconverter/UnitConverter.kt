@@ -77,7 +77,6 @@ fun UnitConverter() {
                 fontWeight = FontWeight.Medium,
                 color = Color.Black
             )
-        // ✏️ Foreground content
         Column(
             modifier = Modifier
                 .fillMaxSize()
