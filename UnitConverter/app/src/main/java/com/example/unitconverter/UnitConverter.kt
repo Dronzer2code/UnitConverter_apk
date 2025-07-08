@@ -88,7 +88,7 @@ fun UnitConverter() {
                     .fillMaxWidth()
                     .padding(16.dp),
                 elevation = CardDefaults.cardElevation(defaultElevation = 6.dp),
-                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.85f)) // Semi-transparent card
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.85f)) 
             ) {
                 Column(
                     modifier = Modifier
