@@ -63,7 +63,6 @@ fun UnitConverter() {
         modifier = Modifier
             .fillMaxSize()
     ) {
-        // 📷 Background Image
         Image(
             painter = painterResource(id = R.drawable.background),
             contentDescription = "Background",
