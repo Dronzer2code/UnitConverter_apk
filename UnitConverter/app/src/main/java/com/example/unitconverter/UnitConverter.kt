@@ -71,7 +71,12 @@ fun UnitConverter() {
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize()
         )
-
+        Text(
+                text = "Dronzer2Code",
+                fontSize = 16.sp,
+                fontWeight = FontWeight.Medium,
+                color = Color.Black
+            )
         // ✏️ Foreground content
         Column(
             modifier = Modifier
